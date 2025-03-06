@@ -37,7 +37,7 @@ public class LinkedList {
         System.out.println("\n");
     }
     
-    public void deleteRepeatedNode(int val){
+    public void deleteQuiz(int val){
         
     }
 

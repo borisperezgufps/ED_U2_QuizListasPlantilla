@@ -21,7 +21,7 @@ public class Test {
         
         ll.print();
         
-        ll.deleteRepeatedNode(5);
+        ll.deleteQuiz(5);
         
         ll.print();
     }
